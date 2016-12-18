@@ -18,7 +18,7 @@ A list of all avariable parameters can you find by typing `./MCJoinbot -h`
 
 
 ### Bug report
-Report all bugs [here](github.com/WolverinDEV/HellBot/issues)
+Report all bugs [here](http://www.github.com/WolverinDEV/HellBot/issues)
 
 
 Attantion!
