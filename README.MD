@@ -1,6 +1,6 @@
 Welcome to HellBot!
 ========
-
+(Free versions)
 
 Hey!
 This is the public responsetory for the high performance Minecraft joinbot for linux!
