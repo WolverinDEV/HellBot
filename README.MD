@@ -10,7 +10,7 @@ This is the public responsetory for the high performance Minecraft joinbot for l
 ### Instalation
 The installation is very easy. Just download the newest version from the release/snapshot page.
 Unzip the file and run the install script.
-
+**Attantion:** HellBot requires gcc-6.1 to run!
 
 ### Run the application
 You can run the application by typing `./MCJoinbot <parameters>`
