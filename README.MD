@@ -13,8 +13,8 @@ This is the public responsetory for the high performance Minecraft joinbot for l
     **Attantion:** HellBot requires gcc-6.1 to run!
 
 ### Run the application
-    You can run the application by typing `./MCJoinbot <parameters>`
-    A list of all avariable parameters can you find by typing `./MCJoinbot -h`
+    You can run the application by typing ./MCJoinbot <parameters>
+    A list of all avariable parameters can you find by typing ./MCJoinbot -h
 
 
 ### Bug report
